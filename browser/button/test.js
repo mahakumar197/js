@@ -1,0 +1,1 @@
+console.log("javscript is a programming language it makes website more smart and interactive");
