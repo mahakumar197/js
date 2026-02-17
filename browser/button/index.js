@@ -1,3 +1,4 @@
 function onSubmit(){
-    alert("button clicked")
+    alert("welcome to class");
+    console.log("hello world")
 }
