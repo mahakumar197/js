@@ -1,14 +1,14 @@
 // // forEach - is used to go through each item in an arry one by one . it uses callback function
 
-// //callback
-// function greet(name){
-//     console.log("hello "+ name);
-// }
-// function processUser(callback) {
-//   let userName = "maha";
-//   callback(userName);
-// }
-// processUser(greet);
+//callback
+function greet(name){
+    console.log("hello "+ name);
+}
+function processUser(callback) {
+  let userName = "maha";
+  callback(userName);
+}
+processUser(greet);
 
 // //foreach - only works for array
 // let number =[10,20,30];
