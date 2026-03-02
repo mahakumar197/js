@@ -1,4 +1,4 @@
 function onSubmit(){
-    alert("welcome to class");
-    console.log("hello world")
+    alert("welcome class to all");
+    // console.log("hello world")
 }
